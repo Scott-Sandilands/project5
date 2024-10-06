@@ -1,5 +1,5 @@
 <template>
-  <nav>
+  <nav class="bg-green-900 h-20 items-center text-white flex justify-center space-x-4">
     <RouterLink to="/">Home</RouterLink>
   </nav>
 </template>
