@@ -1,7 +1,6 @@
 <template>
   <nav>
     <RouterLink to="/">Home</RouterLink>
-    <RouterLink to="/other">Other</RouterLink>
   </nav>
 </template>
 
